@@ -4,11 +4,12 @@
 성공회대 맵스(제작 중): <a href="https://uknong.github.io/SKHU-MAPS/" target="_blank">https://uknong.github.io/SKHU-MAPS/</a>
 <img src="https://raw.githubusercontent.com/Uknong/SKHU-MAPS/main/SKHU_MAPS_QR.png" width="100" height="100">
 
-수정내역  
-20220508 테스트용 임시 페이지 업로드  
-20220511 버튼 구현  
-20220513 창크기 자동 조절, iOS 15.4 지원  
-20220518 Android 앱 지원
+ 수정내역  
+ 20220508 테스트용 임시 페이지 업로드  
+~20220511 버튼 구현  
+~20220513 창크기 자동 조절, iOS 15.4 지원  
+~20220518 Android 앱 지원  
+~20220531 무언가 추가됨
   
 문제  
 아직 지도가 없음  
