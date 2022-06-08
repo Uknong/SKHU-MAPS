@@ -1,5 +1,6 @@
 ## 공지
-안드로이드 사용자는 SKHU MAPS.apk 앱을 설치해주세요.  
+안드로이드 사용자분 여러분! 이 페이지로 안내드려서 죄송합니다ㅜ  현재 안드로이드에서 창 깨지는 문제가 있으니
+안드로이드 사용자는 상단의 View code를 눌러 SKHU MAPS.apk 선택 후 View raw를 눌러 앱을 설치해주세요.  
 # SKHU-MAPS
 성공회대학교 디자인씽킹 프로젝트 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUknong%2FSKHU-MAPS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
   
