@@ -1,7 +1,7 @@
 ## [공지] 죄송합니다
 안드로이드 사용자 여러분! 이 페이지로 안내드려서 죄송합니다ㅜ  
 현재 안드로이드에서 화면이 제대로 안 나오는 문제가 있으니  
-안드로이드 사용자는 <a href="https://github.com/Uknong/SKHU-MAPS/blob/main/SKHU%20MAPS.apk?raw=true">→여기←</a>를 눌러 앱을 설치해 주세요.  
+안드로이드 사용자는 <b><a href="https://github.com/Uknong/SKHU-MAPS/blob/main/SKHU%20MAPS.apk?raw=true">→여기←</a></b>를 눌러 앱을 설치해 주세요.  
 Google Play 검토 후 Play 스토어에서 설치 가능하게 변경 예정입니다.  
 감사합니다.
 # SKHU-MAPS
