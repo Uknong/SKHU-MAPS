@@ -2,24 +2,6 @@
 <html lang="en-us">
 
 <head>
-        <script>
-        //스마트폰 운영체제 이름들을 배열로 생성
-          var smartPhones = ["android"];
-          //스마트 폰에서 접속했는지  여부를 저장할 변수
-          var flag = false;
-          for(var i in smartPhones){
-              if(navigator.userAgent.toLowerCase().match(new RegExp(smartPhones[i]))){
-                  flag = true;
-                  break;
-              }
-          }
-          if(flag){
-              location.href = "https://github.com/Uknong/SKHU-MAPS";
-          }
-          else{
-            location.href = "https://uknong.github.io/SKHU-MAPS/";
-          }
-       </script>
 	<meta charset="utf-8">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>성공회대 맵스</title>
