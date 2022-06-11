@@ -1,8 +1,7 @@
 ## [공지] 죄송합니다
 안드로이드 사용자 여러분! 이 페이지로 안내드려서 죄송합니다ㅜ  
 현재 안드로이드에서 화면이 제대로 안 나오는 문제가 있으니  
-안드로이드 사용자는 <b><a href="https://github.com/Uknong/SKHU-MAPS/blob/main/SKHU%20MAPS.apk?raw=true">→여기←</a></b>를 눌러 앱을 설치해 주세요.  
-Google Play 검토 후 Play 스토어에서 설치 가능하게 변경 예정입니다.  
+안드로이드 사용자는 <b><a href="https://play.google.com/store/apps/details?id=com.uknong.skhumaps">Google Play 스토어</a></b>에서 앱을 설치해 주세요.  
 감사합니다.
 # SKHU-MAPS
 성공회대학교 디자인씽킹 프로젝트 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUknong%2FSKHU-MAPS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
