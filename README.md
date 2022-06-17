@@ -3,7 +3,7 @@
 현재 안드로이드에서 화면이 제대로 안 나오는 문제가 있으니  
 안드로이드 사용자는 <b><a href="https://play.google.com/store/apps/details?id=com.uknong.skhumaps">Google Play 스토어</a></b>에서 앱을 설치해 주세요.  
 감사합니다.  
-<a href='https://play.google.com/store/apps/details?id=com.uknong.skhumaps&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='다운로드하기 Google Play' src='https://play.google.com/intl/ko/badges/static/images/badges/ko_badge_web_generic.png' width="35%" height="35%"/></a>  
+<a href='https://play.google.com/store/apps/details?id=com.uknong.skhumaps&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='다운로드하기 Google Play' src='https://play.google.com/intl/ko/badges/static/images/badges/ko_badge_web_generic.png' width="25%" height="25%"/></a>  
 ___  
 Google Play 및 Google Play 로고는 Google LLC의 상표입니다.
 # SKHU-MAPS
@@ -30,7 +30,8 @@ Google Play 및 Google Play 로고는 Google LLC의 상표입니다.
 ~20220608 SKHU MAPS 고장으로 인한 복구 작업, 안드로이드 OS 접속 페이지 변경  
 ~20220609 Android용 웹페이지  
 ~20220610 Google Play 검토 요청  
-~20220611 오류 수정 및 저사양 기기 최적화 작업, Google Play 스토어 출시
+~20220611 오류 수정 및 저사양 기기 최적화 작업, Google Play 스토어 출시  
+~20220617 Google Play 안내 추가  
   
 문제  
 지도 수정 중  
