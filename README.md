@@ -1,8 +1,11 @@
-## [공지] 죄송합니다
+## [공지] 안드로이드 앱이 출시되었어요!
 안드로이드 사용자 여러분! 이 페이지로 안내드려서 죄송합니다ㅜ  
 현재 안드로이드에서 화면이 제대로 안 나오는 문제가 있으니  
 안드로이드 사용자는 <b><a href="https://play.google.com/store/apps/details?id=com.uknong.skhumaps">Google Play 스토어</a></b>에서 앱을 설치해 주세요.  
-감사합니다.
+감사합니다.  
+<a href='https://play.google.com/store/apps/details?id=com.uknong.skhumaps&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='다운로드하기 Google Play' src='https://play.google.com/intl/ko/badges/static/images/badges/ko_badge_web_generic.png' width="25%" height="25%"/></a>  
+___  
+Google Play 및 Google Play 로고는 Google LLC의 상표입니다.
 # SKHU-MAPS
 성공회대학교 디자인씽킹 프로젝트 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUknong%2FSKHU-MAPS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
   
@@ -27,7 +30,8 @@
 ~20220608 SKHU MAPS 고장으로 인한 복구 작업, 안드로이드 OS 접속 페이지 변경  
 ~20220609 Android용 웹페이지  
 ~20220610 Google Play 검토 요청  
-~20220611 오류 수정 및 저사양 기기 최적화 작업, Google Play 스토어 출시
+~20220611 오류 수정 및 저사양 기기 최적화 작업, Google Play 스토어 출시  
+~20220617 Google Play 안내 추가  
   
 문제  
 지도 수정 중  
@@ -35,7 +39,8 @@
 모바일 기기 가상 키보드 비활성화  
 Android WebGL 창 깨짐  
 ~~나를 방해하는 버그들~~  
-정식 출시되지 않은 i(Pad)OS 16 개발자 베타는 현재 미지원(Apple에서 해결 필요)
+정식 출시되지 않은 i(Pad)OS 16 개발자 베타는 현재 미지원(Apple에서 해결 필요)  
+PC CPU 점유율 높음(다음 업데이트에서 해결 예정)  
   
 해결됨  
 iOS 15.4에서 WebGL 로딩 안되는 문제
