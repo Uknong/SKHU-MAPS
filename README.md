@@ -1,8 +1,9 @@
-## [공지] 죄송합니다
+## [공지] 안드로이드 앱이 출시되었어요!
 안드로이드 사용자 여러분! 이 페이지로 안내드려서 죄송합니다ㅜ  
 현재 안드로이드에서 화면이 제대로 안 나오는 문제가 있으니  
 안드로이드 사용자는 <b><a href="https://play.google.com/store/apps/details?id=com.uknong.skhumaps">Google Play 스토어</a></b>에서 앱을 설치해 주세요.  
-감사합니다.
+감사합니다.  
+<a href='https://play.google.com/store/apps/details?id=com.uknong.skhumaps&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='다운로드하기 Google Play' src='https://play.google.com/intl/ko/badges/static/images/badges/ko_badge_web_generic.png' width="35%" height="35%"/></a>
 # SKHU-MAPS
 성공회대학교 디자인씽킹 프로젝트 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUknong%2FSKHU-MAPS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
   
