@@ -41,8 +41,8 @@ Google Play 및 Google Play 로고는 Google LLC의 상표입니다.
 Android WebGL 창 깨짐  
 ~~나를 방해하는 버그들~~  
 정식 출시되지 않은 i(Pad)OS 16 개발자 베타는 현재 미지원(Apple에서 해결 필요)  
-PC CPU 점유율 높음(다음 업데이트에서 해결 예정)  
   
 해결됨  
 iOS 15.4에서 WebGL 로딩 안되는 문제
 창 크기  
+저사양 기기 버벅임  
