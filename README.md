@@ -33,6 +33,7 @@ Google Play 및 Google Play 로고는 Google LLC의 상표입니다.
 ~20220610 Google Play 검토 요청  
 ~20220611 오류 수정 및 저사양 기기 최적화 작업, Google Play 스토어 출시  
 ~20220617 Google Play 안내 추가  
+~20220619 메뉴, 3D 수정  
   
 문제  
 지도 수정 중  
